@@ -1,5 +1,4 @@
 import os
-import os
 from twilio.rest import Client
 from twilio_config import *
 import time
